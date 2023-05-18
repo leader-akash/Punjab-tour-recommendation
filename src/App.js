@@ -173,6 +173,7 @@ export default function App() {
           <a
             style={{ textDecoration: "none", color: "#fcaf02" }}
             href="https://hiakash.netlify.app/"
+            target="_blank"
           >
             Akash
           </a>
